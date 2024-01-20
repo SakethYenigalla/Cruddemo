@@ -1,1 +1,0 @@
-INSERT INTO person (id,name,age) VALUES (2,'ravi',32);
